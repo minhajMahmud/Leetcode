@@ -1,8 +1,20 @@
 class Solution {
     public int majorityElement(int[] nums) {
-       Arrays.sort(nums);
-       int n=nums.length;
-       return  nums[n/2];
-        
+        int candidate = 0;
+        int cnt = 0;
+
+        for (int num : nums) {
+            if (cnt == 0) {
+                candidate = num;
+            }
+
+            if (num == candidate) {
+                cnt++;
+            } else {
+                cnt--;
+            }
+        }
+
+        return candidate;
     }
 }

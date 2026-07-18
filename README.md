@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/minhajMahmud/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/minhajMahmud/Leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/minhajMahmud/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/minhajMahmud/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/minhajMahmud/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/minhajMahmud/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/minhajMahmud/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/minhajMahmud/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/minhajMahmud/Leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/minhajMahmud/Leetcode/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/minhajMahmud/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |

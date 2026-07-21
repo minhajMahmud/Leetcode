@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/minhajMahmud/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/minhajMahmud/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/minhajMahmud/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/minhajMahmud/Leetcode/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/minhajMahmud/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/minhajMahmud/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/minhajMahmud/Leetcode/tree/master/0704-binary-search) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/minhajMahmud/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/minhajMahmud/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/minhajMahmud/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/minhajMahmud/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
